@@ -5,6 +5,7 @@ function Home() {
   return (
     <main className="timeline">
       <h1>home</h1>
+      <h2>dieu</h2>
       {/* <Timeline/> */}
       Timeline here
     </main>
